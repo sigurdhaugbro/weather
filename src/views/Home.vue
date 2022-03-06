@@ -214,6 +214,7 @@ export default {
 		margin: none;
 		width: 100%;
 		text-align: left;
+		color: black;
 	}
 
 	.weather-icon {
