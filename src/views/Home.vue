@@ -132,7 +132,7 @@ export default {
 				this.sunny = false
 				this.rain = false
 			} 
-			else if (this.description === 'Heavy Rain' || this.description === 'Light Rain' || this.description === 'Showers') {
+			else if (this.description === 'Heavy Rain' || this.description === 'Light Rain' || this.description === 'Showers' || this.description === 'Light rain shower') {
 				this.cloudy = false
 			 	this.sunny = false
 				this.rain = true
